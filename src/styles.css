@@ -18,8 +18,8 @@ body {
   /* width: 200px; */
   /* height: 250px; */
   padding: 0 2em 2em 2em;
-  margin: 3em;
-  margin-left: 120px;
+  margin: 2em;
+  /* margin-left: 100px; */
   padding-left: 0px;
   padding-right: 0px;
   /* align-items: center; */
@@ -27,11 +27,9 @@ body {
 }
 
 .header-image{
-  /* width: 25%;
-  height: 25%; */
   width: 317px;
   height: 317px;
-  border-radius: 10px 10px 0px 0px; 
+  border-radius: 10px 10px 10px 10px; 
 }
 
 h1 {
@@ -148,6 +146,7 @@ footer {
   /* margin-left: 60px; */
   /* max-width: 320px; */
   margin-bottom: 0px;
+  border-radius: 0px 0px 10px 10px; 
   justify-content: center;
   padding-top: 19px;
   padding-bottom: 20px;
