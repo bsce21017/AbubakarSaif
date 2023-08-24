@@ -24,7 +24,7 @@ function Footer() {
             <div className="footer-flex"> 
                 <img className="icon" src = {process.env.PUBLIC_URL + "/Facebook Icon.svg"} alt="Fb Icon" />
                 <img className="icon" src = {process.env.PUBLIC_URL + "/Instagram Icon.png"} alt="Insta Icon" />
-                <a href="https://github.com/bsce21017"><img className="icon" src = {process.env.PUBLIC_URL + "/GitHub Icon.svg"} alt="GitHub Icon" /></a>
+                <a href="https://github.com/bsce21017" target="_blank" rel="noopener noreferrer"><img className="icon" src = {process.env.PUBLIC_URL + "/GitHub Icon.svg"} alt="GitHub Icon" /></a>
                 <img className="icon" src = {process.env.PUBLIC_URL + "/Twitter Icon.svg"} alt="Twitter Icon" />
             </div>
         </footer>

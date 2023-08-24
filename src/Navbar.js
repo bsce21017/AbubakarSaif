@@ -1,5 +1,6 @@
 import React from "react"
 
+
 function Picture() {
     return (
         <div>
@@ -12,7 +13,7 @@ function ButtonFlex() {
     return (
         <div className = "button-flex">
             <a href="mailto:eagleofpak47@gmail.com"><button className = "email-button" >✉ Email</button></a>
-            <a href="https://www.linkedin.com/in/muhammad-abubakar-saif-a4540822a/"><button className = "lkd-button">LinkedIn</button></a>
+            <a href="https://www.linkedin.com/in/muhammad-abubakar-saif-a4540822a/"  target="_blank" rel="noopener noreferrer"><button className = "lkd-button">LinkedIn</button></a>
         </div>
     )
 }
