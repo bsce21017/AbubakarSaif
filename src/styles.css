@@ -81,7 +81,7 @@ h1 {
   width: 120px;
   margin-right: 17px;
   border-radius: 6px;
-  border: 1px solid var(--gray-300, #D1D5DB);
+  /* border: 1px solid var(--gray-300, #D1D5DB); */
   font-size: 14px;
   padding-bottom: 9px;
   padding-top: 9px;
